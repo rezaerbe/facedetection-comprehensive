@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574096893279",
+    "firebase_url": "https://facedetection-erbe.firebaseio.com",
+    "project_id": "facedetection-erbe",
+    "storage_bucket": "facedetection-erbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574096893279:android:6d120b7a534505ff2002ea",
+        "android_client_info": {
+          "package_name": "com.erbe.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574096893279-6ru2m3hhhkiasnafrhfbn28kpdb4ua04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erbe.facedetection",
+            "certificate_hash": "6a0ae460ac96c7cb41458a47c7a99296fcd196fb"
+          }
+        },
+        {
+          "client_id": "574096893279-7ctd0o21kp1rkbl3fjdmpt8p2ik2s1jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBc5fmLVnOeCoHXPgKaIyXLHtHFK0ym4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574096893279-7ctd0o21kp1rkbl3fjdmpt8p2ik2s1jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
